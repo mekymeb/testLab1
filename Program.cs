@@ -8,7 +8,7 @@ Console.WriteLine("This is a test");
 string text = System.IO.File.ReadAllText("text.txt");
 Console.WriteLine(text);
 
-
+//This is Visual Studio
 
 
 Console.WriteLine("Hello, Meky");
